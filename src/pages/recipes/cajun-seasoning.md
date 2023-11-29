@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/BaseLayout.astro
 title: 'Cajun Seasoning'
 pubDate: 2023-11-28
 description: 'Cajun Seasoning'

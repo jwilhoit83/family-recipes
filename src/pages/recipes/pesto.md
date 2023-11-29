@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/BaseLayout.astro
 title: 'Pesto Sauce'
 pubDate: 2023-11-28
 description: 'Pesto sauce from scratch'

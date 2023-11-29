@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/BaseLayout.astro
 title: 'Creamy Cajun Orzo with Sausage'
 pubDate: 2023-11-28
 description: 'Stovetop creamy cajun orzo'

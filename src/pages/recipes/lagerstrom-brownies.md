@@ -1,10 +1,11 @@
 ---
-title: "Langerstrom's Good Brownies"
+layout: ../../layouts/BaseLayout.astro
+title: "Lagerstrom's Good Brownies"
 pubDate: 2023-11-28
-description: "Brian Langerstrom's GOOD brownies"
-author: 'Brian Langerstrom'
+description: "Brian Lagerstrom's GOOD brownies"
+author: 'Brian Lagerstrom'
 ---
-# Langerstom’s Good Brownies
+# Lagerstom’s Good Brownies
 
 ## Ingredients
 

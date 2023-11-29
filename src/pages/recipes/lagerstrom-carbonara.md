@@ -1,10 +1,11 @@
 ---
-title: "Langerstrom's Carbonara"
+layout: ../../layouts/BaseLayout.astro
+title: "Lagerstrom's Carbonara"
 pubDate: 2023-11-28
 description: 'Carbonara with bacon'
-author: 'Brian Langerstrom'
+author: 'Brian Lagerstrom'
 ---
-# Langerstom’s Carbonara
+# Lagerstom’s Carbonara
 
 ## Ingredients
 

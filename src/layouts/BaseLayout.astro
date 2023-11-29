@@ -1,0 +1,40 @@
+---
+import Navigation from '../components/Navigation.astro'
+import '../style/global.css'
+const {frontMatter} = Astro.props
+---
+
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+		<meta name="viewport" content="width=device-width" />
+		<meta name="generator" content={Astro.generator} />
+		<meta name="mobile-web-app-capable" content="yes">
+		<link rel="icon" type="image/x-icon" href="/icon-32.png" />
+		<link rel="shortcut icon" sizes='128x128' href="/icon-128.png" />
+		<link rel="apple-touch-icon" sizes='32x32' href="/icon-32.png" />
+		<link rel="apple-touch-icon" sizes='64x64' href="/icon-64.png" />
+		<link rel="apple-touch-icon" sizes='128x128' href="/icon-128.png" />
+		<link rel="apple-touch-icon" sizes='256x256' href="/icon-256.png" />
+		<link rel="apple-touch-icon" sizes='512x512' href="/icon-512.png" />
+		<title>Jerod and Family's Recipes</title>
+	</head>
+	<body>
+		<Navigation/>
+        <div class='container'>
+		    <slot />
+        </div>
+	</body>
+	<style>
+        body {
+            color: var(--clr-secondary);
+            background-color: var(--clr-primary);
+        }
+        .container {
+            width: min(90%, 50rem);
+            margin-inline: auto;
+        }
+        
+	</style>
+</html>
