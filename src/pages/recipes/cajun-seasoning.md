@@ -4,21 +4,25 @@ title: 'Cajun Seasoning'
 pubDate: 2023-11-28
 description: 'Cajun Seasoning'
 author: 'Jerod Wilhoit'
+tags: ['seasoning', 'dinner']
 ---
 # Cajun Seasoning
 
 ## Ingredients
 
-* 2 teaspoons salt
-* 2 teaspoons garlic powder
-* 2 ½ teaspoons paprika
-* 1 teaspoon ground black pepper
-* 1 teaspoon onion powder
-* 1 teaspoon cayenne pepper
-* 1 ¼ teaspoons dried oregano
-* 1 ¼ teaspoons dried thyme
-* ½ teaspoon red pepper flakes
+* 1 tsp salt
+* 2 tsp garlic powder
+* 2 ½ tsp paprika
+* 1 tsp ground black pepper
+* 1 tsp onion powder
+* 1 ¼ tsp dried oregano
+* 1 ¼ tsp dried thyme
+* ½ tsp red pepper flakes
+* 1 tsp cayenne pepper(optional)
+* ½ tsp fennel seeds(optional)
 
 ## Instructions
 
 1. Mix all ingredients until uniform.
+
+- Recipe from Jerod Wilhoit

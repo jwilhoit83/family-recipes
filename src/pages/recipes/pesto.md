@@ -4,6 +4,7 @@ title: 'Pesto Sauce'
 pubDate: 2023-11-28
 description: 'Pesto sauce from scratch'
 author: 'Jerod Wilhoit'
+tags: ['dinner', 'pasta', 'sauce']
 ---
 # Pesto Sauce
 
@@ -24,3 +25,9 @@ author: 'Jerod Wilhoit'
 3. Once the basil has broken down, add the cheese. Add a small amount of oil at a time, pounding in between to combine the pesto. Tip: If your pesto begins to break, add another sprinkling of grated cheese. 
 4. Alternatively, combine the garlic, salt, and pine nuts in the bowl of a food processor. Pulse until the nuts are finely chopped. Add the basil leaves and the cheeses. While the machine is running, stream in the olive oil. 
 5. Use immediately or store the pesto in an airtight container. Before closing the lid, add a thin layer of olive oil on top of the pesto to prevent discoloring. Store in the refrigerator until ready to use.
+
+### Notes
+
+1. Mix with your favorite pasta and add a bit of pasta water to your pot while mixing for a creamy result.
+
+- Recipe from Jerod Wilhoit

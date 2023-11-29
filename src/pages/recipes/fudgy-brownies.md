@@ -1,20 +1,21 @@
 ---
 layout: ../../layouts/BaseLayout.astro
-title: "Lagerstrom's Good Brownies"
+title: "Fudgy Brownies"
 pubDate: 2023-11-28
 description: "Brian Lagerstrom's GOOD brownies"
-author: 'Brian Lagerstrom'
+author: 'Jerod Wilhoit'
+tags: ['dessert']
 ---
-# Lagerstom’s Good Brownies
+# Fudgy Brownies
 
 ## Ingredients
 
-* 170g or 1.5 sticks unsalted butter
+* 170g or 1½ sticks unsalted butter
 * 225g or 8oz 70% chocolate
 * 175g or ¾ cup granulated sugar
 * 5g or 1 tsp kosher salt
 * 3 eggs, whisked
-* 200g or 1 ¼ cup flour
+* 200g or 1¼ cup flour
 
 ## Instructions
 
@@ -25,3 +26,5 @@ author: 'Brian Lagerstrom'
 5. Add salt and flour. Stir until well combined.
 6. Load into a greased 8”x8”/20x20cm pan.
 7. Bake at 350F/175C for 24-26 minutes rotating halfway through. 
+
+- Recipe from Jerod Wilhoit
