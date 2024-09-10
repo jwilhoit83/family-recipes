@@ -1,6 +1,8 @@
 ---
 import Navigation from '../components/Navigation.astro'
-import '../style/global.css'
+import Selector from '../components/Selector.astro'
+import "../style/global.css"
+
 const {frontMatter} = Astro.props
 ---
 
@@ -20,21 +22,12 @@ const {frontMatter} = Astro.props
 		<link rel="apple-touch-icon" sizes='512x512' href="/icon-512.png" />
 		<title>Jerod and Family's Recipes</title>
 	</head>
-	<body>
+	<body class="bg-gray-50 text-gray-500">
 		<Navigation/>
-        <div class='container'>
+		<Selector />
+        <div class='container mx-auto px-2 sm:px-8 py-6 text-sm sm:text-base'>
+			
 		    <slot />
         </div>
 	</body>
-	<style>
-        body {
-            color: var(--clr-secondary);
-            background-color: var(--clr-primary);
-        }
-        .container {
-            width: min(90%, 50rem);
-            margin-inline: auto;
-        }
-        
-	</style>
 </html>

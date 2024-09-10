@@ -1,0 +1,37 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+
+export async function getStaticPaths() {
+  const allRecipes = await Astro.glob("../recipes/*.md");
+
+  const uniqueTags = [
+    ...new Set(allRecipes.map((post) => post.frontmatter.tags).flat()),
+  ];
+
+  return uniqueTags.map((tag) => {
+    const filteredRecipes = allRecipes.filter((recipe) =>
+      recipe.frontmatter.tags.includes(tag)
+    );
+    return {
+      params: { tag },
+      props: { recipes: filteredRecipes },
+    };
+  });
+}
+
+const { tag } = Astro.params;
+const { recipes } = Astro.props;
+---
+
+<BaseLayout>
+  <h1 class="sm:text-lg pb-4 text-center font-bold">{tag.charAt(0).toUpperCase() + tag.slice(1)} Recipes</h1>
+  <ul class="list-disc pl-6 sm:pl-10">
+    {
+      recipes.map((recipe) => (
+        <li>
+          <a href={recipe.url}>{recipe.frontmatter.title}</a>
+        </li>
+      ))
+    }
+  </ul>
+</BaseLayout>

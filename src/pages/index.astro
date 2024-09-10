@@ -1,20 +1,19 @@
 ---
-const allRecipes = await Astro.glob('../pages/recipes/*.md')
-import BaseLayout from '../layouts/BaseLayout.astro'
-const pageTitle = 'Jerod and Family Recipes'
+const allRecipes = await Astro.glob("../pages/recipes/*.md");
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Selector from "../components/Selector.astro";
+const pageTitle = "Jerod and Family Recipes";
 ---
 
 <BaseLayout pageTitle={pageTitle}>
-	<ul>
-		{allRecipes.map((recipe) => <li><a href={recipe.url}>{recipe.frontmatter.title}</a></li>)}
-	</ul>
+  <h1 class="sm:text-lg pb-4 text-center font-bold">All Recipes</h1>
+  <ul class="list-disc pl-6 sm:pl-10">
+    {
+      allRecipes.map((recipe) => (
+        <li>
+          <a href={recipe.url}>{recipe.frontmatter.title}</a>
+        </li>
+      ))
+    }
+  </ul>
 </BaseLayout>
-
-<style>
-	a {
-		text-decoration: none;
-		color: inherit;
-	}
-
-	
-</style>

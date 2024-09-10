@@ -1,12 +1,11 @@
 ---
-layout: ../../layouts/BaseLayout.astro
+layout: ../../layouts/RecipeLayout.astro
 title: "Fudgy Brownies"
 pubDate: 2023-11-28
 description: "Brian Lagerstrom's GOOD brownies"
-author: 'Jerod Wilhoit'
-tags: ['dessert']
+author: 'Brian Lagerstrom'
+tags: ['Dessert']
 ---
-# Fudgy Brownies
 
 ## Ingredients
 
@@ -25,6 +24,4 @@ tags: ['dessert']
 4. Off heat, add eggs and stir well.
 5. Add salt and flour. Stir until well combined.
 6. Load into a greased 8”x8”/20x20cm pan.
-7. Bake at 350F/175C for 24-26 minutes rotating halfway through. 
-
-- Recipe from Jerod Wilhoit
+7. Bake at 350F/175C for 24-26 minutes rotating halfway through.

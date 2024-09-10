@@ -1,12 +1,11 @@
 ---
-layout: ../../layouts/BaseLayout.astro
+layout: ../../layouts/RecipeLayout.astro
 title: "Union Station Chocolate Chip Cookies"
 pubDate: 2023-11-28
 description: "Union Station Chocolate Chip Cookies"
 author: 'Denise Ray'
-tags: ['dessert', 'cookies']
+tags: ['Dessert', 'Cookies']
 ---
-# Union Station Chocolate Chip Cookies
 
 ## Ingredients
 
@@ -33,5 +32,3 @@ tags: ['dessert', 'cookies']
 5. Mix in melted chocolate, chocolate chips, and chopped nuts.
 6. Shape into golf ball sized balls and place 2" apart on ungreased baking sheet.
 7. Bake for 8 minutes.(will not appear to be done but they are!) Cool on pan for 5 minutes before turning out onto wire rack to cool completely.
-
-- Recipe from Denise Ray

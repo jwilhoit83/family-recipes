@@ -1,12 +1,11 @@
 ---
-layout: ../../layouts/BaseLayout.astro
+layout: ../../layouts/RecipeLayout.astro
 title: "Banana Bread"
 pubDate: 2023-11-28
 description: "Barb Ray's Banana Bread"
 author: 'Barbara Ray'
-tags: ['dessert', 'bread', 'breakfast']
+tags: ['Dessert', 'Bread', 'Breakfast']
 ---
-# Banana Bread
 
 ## Ingredients
 
@@ -29,5 +28,3 @@ tags: ['dessert', 'bread', 'breakfast']
 5. Mix in smashed bananas to the dough.
 6. Pour into a greased loaf pan and top with pecans if you like.
 7. Bake for 60 minutes. Cool in pan for 5 minutes before turning out onto wire rack to cool completely.
-
-- Recipe from Barbara Ray

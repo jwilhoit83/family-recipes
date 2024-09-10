@@ -1,12 +1,11 @@
 ---
-layout: ../../layouts/BaseLayout.astro
+layout: ../../layouts/RecipeLayout.astro
 title: 'Pesto Sauce'
 pubDate: 2023-11-28
 description: 'Pesto sauce from scratch'
 author: 'Jerod Wilhoit'
-tags: ['dinner', 'pasta', 'sauce']
+tags: ['Dinner', 'Pasta', 'Sauce-Seasoning']
 ---
-# Pesto Sauce
 
 ## Ingredients
 
@@ -29,5 +28,3 @@ tags: ['dinner', 'pasta', 'sauce']
 ### Notes
 
 1. Mix with your favorite pasta and add a bit of pasta water to your pot while mixing for a creamy result.
-
-- Recipe from Jerod Wilhoit

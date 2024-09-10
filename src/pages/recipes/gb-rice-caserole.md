@@ -1,11 +1,10 @@
 ---
-layout: ../../layouts/BaseLayout.astro
+layout: ../../layouts/RecipeLayout.astro
 title: "Cheesy Ground Beef and Rice Caserole"
 pubDate: 2023-11-29
 author: 'Leslie Bydalek'
-tags: ['dinner', 'caserole']
+tags: ['Dinner', 'Caserole']
 ---
-# Cheesy Ground Beef and Rice Caserole
 
 ## Ingredients
 
@@ -40,5 +39,3 @@ tags: ['dinner', 'caserole']
 
 ### Notes
 1. You can cook the rice seperately and add to the mix at stage 10 (omit the broth and rice from the recipe and just cook the mushrooms with the onions and garlic)
-
-- Recipe from Leslie Bydalek

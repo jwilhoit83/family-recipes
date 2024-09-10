@@ -1,12 +1,11 @@
 ---
-layout: ../../layouts/BaseLayout.astro
+layout: ../../layouts/RecipeLayout.astro
 title: 'Tollhouse Chocolate Chip Cookies'
 pubDate: 2023-11-28
 description: 'Tollhouse Chocolate Chip Cookies'
 author: 'Jourdan Wilhoit'
-tags: ['dessert', 'cookies']
+tags: ['Dessert', 'Cookies']
 ---
-# Toll House Chocolate Chip
 
 ## Ingredients
 
@@ -28,5 +27,3 @@ tags: ['dessert', 'cookies']
 4. Add eggs, one at a time, beating well after each addition. Gradually beat in flour mixture. 
 5. Stir in morsels and nuts. Drop by rounded tablespoon onto ungreased baking sheets.
 6. Bake for 9 to 11 minutes or until golden brown. Cool on baking sheets for 2 minutes; remove to wire racks to cool completely.
-
-- Recipe from Jourdan Wilhoit

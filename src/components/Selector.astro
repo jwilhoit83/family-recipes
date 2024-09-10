@@ -1,0 +1,43 @@
+---
+const allRecipes = await Astro.glob("../pages/recipes/*.md");
+const uniqueTags = [
+  ...new Set(allRecipes.map((recipe) => recipe.frontmatter.tags).flat()),
+];
+---
+
+<div class="mx-auto flex items-center justify-center">
+  <div class="group relative cursor-pointer py-2">
+    <div class="flex items-center justify-between space-x-5 bg-gray-50 text-gray-500 px-4">
+      <p class="menu-hover py-2 text-base font-medium lg:mx-4">
+        Choose Category
+      </p>
+      <span>
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          fill="none"
+          viewBox="0 0 24 24"
+          stroke-width="1.5"
+          stroke="currentColor"
+          class="h-6 w-6"
+        >
+          <path
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            d="M19.5 8.25l-7.5 7.5-7.5-7.5"></path>
+        </svg>
+      </span>
+    </div>
+
+    <div
+      class="invisible absolute z-50 flex w-full flex-col bg-gray-100 py-1 px-4 text-gray-800 shadow-xl group-hover:visible"
+    >
+      <a href="/"
+        class="my-2 block border-b border-gray-100 py-1 font-semibold text-gray-500 hover:text-gray-700 md:mx-2"
+      >All Recipes</a>
+
+      {uniqueTags.map((tag) => <a href={"/tags/" + tag} class="my-2 block border-b border-gray-100 py-1 font-semibold text-gray-500 hover:text-gray-700 md:mx-2"
+      >{tag}</a>)}
+
+    </div>
+  </div>
+</div>

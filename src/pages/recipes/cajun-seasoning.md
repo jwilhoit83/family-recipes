@@ -1,12 +1,11 @@
 ---
-layout: ../../layouts/BaseLayout.astro
+layout: ../../layouts/RecipeLayout.astro
 title: 'Cajun Seasoning'
 pubDate: 2023-11-28
 description: 'Cajun Seasoning'
 author: 'Jerod Wilhoit'
-tags: ['seasoning', 'dinner']
+tags: ['Sauce-Seasoning', 'Dinner']
 ---
-# Cajun Seasoning
 
 ## Ingredients
 
@@ -24,5 +23,3 @@ tags: ['seasoning', 'dinner']
 ## Instructions
 
 1. Mix all ingredients until uniform.
-
-- Recipe from Jerod Wilhoit

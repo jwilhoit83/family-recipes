@@ -1,11 +1,10 @@
 ---
-layout: ../../layouts/BaseLayout.astro
+layout: ../../layouts/RecipeLayout.astro
 title: "Pecan Pie"
 pubDate: 2023-11-29
 author: 'Leslie Bydalek'
-tags: ['dessert', 'pie']
+tags: ['Dessert', 'Pie']
 ---
-# Pecan Pie
 
 ## Ingredients
 
@@ -26,5 +25,3 @@ tags: ['dessert', 'pie']
 3. In a large bowl add and mix all other ingredients and pour over pecans in the pie pan.
 4. Bake for 55-60 minutes until center has slight jiggle but sides are firm and set.
 5. Let cool to room temperature before slicing. (about 2 hours)
-
-- Recipe from Leslie Bydalek

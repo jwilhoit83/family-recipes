@@ -1,12 +1,11 @@
 ---
-layout: ../../layouts/BaseLayout.astro
+layout: ../../layouts/RecipeLayout.astro
 title: "Tollhouse Pie"
 pubDate: 2023-11-28
 description: "Tollhouse Pie"
 author: 'Denise Ray'
-tags: ['dessert', 'pie', 'cookies']
+tags: ['Dessert', 'Pie', 'Cookies']
 ---
-# Tollhouse Pie
 
 ## Ingredients
 
@@ -28,5 +27,3 @@ tags: ['dessert', 'pie', 'cookies']
 4. Mix in butter, chocolate chips, and nuts until well blended.
 5. Pour into pie pan lined with pie crust.
 6. Bake for 1 hour.
-
-- Recipe from Denise Ray
