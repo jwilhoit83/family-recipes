@@ -24,8 +24,8 @@ const { recipes } = Astro.props;
 ---
 
 <BaseLayout>
-  <h1 class="sm:text-lg pb-4 text-center font-bold">{tag.charAt(0).toUpperCase() + tag.slice(1)} Recipes</h1>
-  <ul class="list-disc pl-6 sm:pl-10">
+  <h1 class="text-lg pb-4 text-center font-bold">{tag.charAt(0).toUpperCase() + tag.slice(1)} Recipes</h1>
+  <ul class="list-disc pl-6 sm:pl-10 text-lg">
     {
       recipes.map((recipe) => (
         <li>

@@ -6,11 +6,11 @@ const pageTitle = "Jerod and Family Recipes";
 ---
 
 <BaseLayout pageTitle={pageTitle}>
-  <h1 class="sm:text-lg pb-4 text-center font-bold">All Recipes</h1>
+  <h1 class="text-lg pb-4 text-center font-bold">All Recipes</h1>
   <ul class="list-disc pl-6 sm:pl-10">
     {
       allRecipes.map((recipe) => (
-        <li>
+        <li class="text-lg">
           <a href={recipe.url}>{recipe.frontmatter.title}</a>
         </li>
       ))
