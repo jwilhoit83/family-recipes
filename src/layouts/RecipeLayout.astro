@@ -6,6 +6,6 @@ const { frontmatter } = Astro.props;
 
 <BaseLayout>
   <h1>{frontmatter.title}</h1>
-  <p class="text-xs">{frontmatter.author}</p>
+  <p class="text-xs">submitted by: {frontmatter.author}</p>
   <slot />
 </BaseLayout>
