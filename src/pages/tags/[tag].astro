@@ -29,7 +29,7 @@ const { recipes } = Astro.props;
     {
       recipes.map((recipe) => (
         <li>
-          <a href={recipe.url}>{recipe.frontmatter.title}</a>
+          <a class="hover:underline decoration-accent dark:decoration-d-accent" href={recipe.url}>{recipe.frontmatter.title}</a>
         </li>
       ))
     }
