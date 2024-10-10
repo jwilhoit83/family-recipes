@@ -1,0 +1,13 @@
+h2 {
+  font-size: 1.25rem;
+  padding-block: 1rem;
+}
+ul {
+  list-style-type: disc !important;
+  padding-left: 2rem !important;
+}
+
+ol {
+  list-style-type: decimal !important;
+  padding-left: 2rem !important;
+}
