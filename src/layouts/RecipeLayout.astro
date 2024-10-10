@@ -6,6 +6,18 @@ const { frontmatter } = Astro.props;
 
 <BaseLayout>
   <h1 class="text-xl sm:text-3xl">{frontmatter.title}</h1>
-  <p class="text-xs">Recieved from: {frontmatter.author}</p>
+  <p class="text-xs text-accent dark:text-d-accent">Recieved from: {frontmatter.author}</p>
   <slot />
 </BaseLayout>
+
+<style>
+  ul {
+    list-style-type: disc;
+    padding-left: 2rem;
+  }
+
+  ol {
+    list-style-type: decimal;
+    padding-left: 2rem;
+  }
+</style>
