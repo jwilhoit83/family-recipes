@@ -7,27 +7,28 @@ author: 'Jourdan Wilhoit'
 tags: ['Dessert', 'Cookies']
 ---
 
-## Ingredients
-
-* ½ c butter
-* ½ c sugar
-* ½ c brown sugar
-* 1 egg
-* 1 ½ tsp vanilla
-* ½ tsp baking powder
-* ½ tsp baking soda
-* ½ tsp salt
-* ¾ tsp cinnamon
-* ¾ c flour
-* 1 ½ c oats
-* ¾ c white chocolate chips
-* ¾ c dried cranberries
-
-## Instructions
-
-1. Preheat oven to 350° F.
-2. Cream butter and sugars until smooth.
-3. Add egg and vanilla and mix.
-4. Add in dry ingredients and mix.
-5. Add in chocolate and cranberries and mix.
-6. Put on ungreased pan and bake for 10-12 minutes.
+<h2 class='text-2xl py-4'>Ingredients</h2>
+<ul class='list-disc ms-4 ps-4 py-2'>
+    <li>½ c butter</li>
+    <li>½ c sugar</li>
+    <li>½ c brown sugar</li>
+    <li>1 egg</li>
+    <li>1 ½ tsp vanilla</li>
+    <li>½ tsp baking powder</li>
+    <li>½ tsp baking soda</li>
+    <li>½ tsp salt</li>
+    <li>¾ tsp cinnamon</li>
+    <li>¾ c flour</li>
+    <li>1 ½ c oats</li>
+    <li>¾ c white chocolate chips</li>
+    <li>¾ c dried cranberries</li>
+</ul>
+<h2 class='text-2xl py-4'>Instructions</h2>
+<ol class='list-decimal ms-4 ps-4 py-2'>
+    <li>Preheat oven to 350° F.</li>
+    <li>Cream butter and sugars until smooth.</li>
+    <li>Add egg and vanilla and mix.</li>
+    <li>Add in dry ingredients and mix.</li>
+    <li>Add in chocolate and cranberries and mix.</li>
+    <li>Put on ungreased pan and bake for 10-12 minutes.</li>
+</ol>
