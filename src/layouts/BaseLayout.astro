@@ -1,33 +1,48 @@
 ---
-import Navigation from '../components/Navigation.astro'
-import Selector from '../components/Selector.astro'
-import "../style/global.css"
+import Navigation from "../components/Navigation.astro";
+import "../style/global.css";
 
-const {frontMatter} = Astro.props
+const { frontMatter } = Astro.props;
 ---
 
 <html lang="en">
-	<head>
-		<meta charset="utf-8" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<meta name="viewport" content="width=device-width" />
-		<meta name="generator" content={Astro.generator} />
-		<meta name="mobile-web-app-capable" content="yes">
-		<link rel="icon" type="image/x-icon" href="/icon-32.png" />
-		<link rel="shortcut icon" sizes='128x128' href="/icon-128.png" />
-		<link rel="apple-touch-icon" sizes='32x32' href="/icon-32.png" />
-		<link rel="apple-touch-icon" sizes='64x64' href="/icon-64.png" />
-		<link rel="apple-touch-icon" sizes='128x128' href="/icon-128.png" />
-		<link rel="apple-touch-icon" sizes='256x256' href="/icon-256.png" />
-		<link rel="apple-touch-icon" sizes='512x512' href="/icon-512.png" />
-		<title>Jerod and Family's Recipes</title>
-	</head>
-	<body class="font-sans bg-primary-100 dark:bg-d-primary-100 text-secondary dark:text-d-secondary">
-		<Navigation/>
-		<!-- <Selector /> -->
-        <div class='container mx-auto px-2 sm:px-8 py-6 text-sm sm:text-base'>
-			
-		    <slot />
-        </div>
-	</body>
+  <style>
+    h2 {
+      font-size: 1.25rem;
+      padding-block: 1rem;
+    }
+    ul {
+      list-style-type: disc;
+      padding-left: 2rem;
+    }
+
+    ol {
+      list-style-type: decimal;
+      padding-left: 2rem;
+    }
+  </style>
+
+  <meta charset="utf-8" />
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+  <meta name="viewport" content="width=device-width" />
+  <meta name="generator" content={Astro.generator} />
+  <meta name="mobile-web-app-capable" content="yes" />
+  <link rel="icon" type="image/x-icon" href="/icon-32.png" />
+  <link rel="shortcut icon" sizes="128x128" href="/icon-128.png" />
+  <link rel="apple-touch-icon" sizes="32x32" href="/icon-32.png" />
+  <link rel="apple-touch-icon" sizes="64x64" href="/icon-64.png" />
+  <link rel="apple-touch-icon" sizes="128x128" href="/icon-128.png" />
+  <link rel="apple-touch-icon" sizes="256x256" href="/icon-256.png" />
+  <link rel="apple-touch-icon" sizes="512x512" href="/icon-512.png" />
+  <title>Jerod and Family's Recipes</title>
+
+  <body
+    class="font-sans bg-primary-100 dark:bg-d-primary-100 text-secondary dark:text-d-secondary"
+  >
+    <Navigation />
+    <!-- <Selector /> -->
+    <div class="container mx-auto px-2 sm:px-8 py-6 text-sm sm:text-base">
+      <slot />
+    </div>
+  </body>
 </html>
