@@ -5,12 +5,6 @@ const { frontmatter } = Astro.props;
 ---
 
 <BaseLayout>
-  <style>
-    h2 {
-      font-size: 1.25rem;
-      padding-block: 1rem;
-    }
-  </style>
   <h1 class="text-xl sm:text-3xl">{frontmatter.title}</h1>
   <p class="text-xs text-accent dark:text-d-accent">
     Recieved from: {frontmatter.author}
