@@ -8,5 +8,14 @@ const { frontmatter } = Astro.props;
   <p class="text-xs text-accent dark:text-d-accent">
     Recieved from: {frontmatter.author}
   </p>
+  <button id="printBtn" class="px-3 py-1 mt-2 text-xs rounded-xl border border-solid border-accent dark:border-d-accent bg-primary-200 dark:bg-d-primary-200 text-secondary dark:text-d-secondary hover:text-primary-200 dark:hover:text-d-primary-200 hover:bg-accent dark:hover:bg-d-accent">Print Recipe</button>
   <slot />
 </BaseLayout>
+
+<script>
+  const printButton = document.getElementById('printBtn')
+
+  printButton.addEventListener('click', () => {
+    window.print()
+  })
+</script>
