@@ -11,8 +11,12 @@ export default {
 			'd-primary-200': '#1d3533',
 			'd-secondary': '#89a7a7',
 			'd-accent': '#f1ab86'
-		},
-		extend: {},
+		}
+	},
+	extend : {
+		screens: {
+			print: { raw: 'print' },
+		  }
 	},
 	plugins: [],
 }
