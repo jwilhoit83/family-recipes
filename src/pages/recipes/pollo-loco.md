@@ -3,7 +3,7 @@ layout: ../../layouts/RecipeLayout.astro
 title: 'Pollo Loco Casserole'
 pubDate: 2024-9-10
 description: 'Mexican chicken and rice casserole'
-author: 'Leslie Bydalek'
+author: 'Leslie'
 tags: ['Dinner', 'Casserole', 'Chicken']
 ---
 <h2 class='text-2xl py-4'>Ingredients</h2>

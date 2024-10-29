@@ -3,7 +3,7 @@ layout: ../../layouts/RecipeLayout.astro
 title: "Elote Corn Salad"
 pubDate: 2024-10-11
 description: "Elote corn salad"
-author: 'Jourdan Wilhoit'
+author: 'Jourdan'
 tags: ['Salad-Sides']
 ---
 

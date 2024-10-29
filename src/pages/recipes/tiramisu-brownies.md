@@ -3,7 +3,7 @@ layout: ../../layouts/RecipeLayout.astro
 title: "Tiramisu Brownies"
 pubDate: 2024-10-11
 description: "Tiramisu Brownies"
-author: 'Jourdan Wilhoit'
+author: 'Jourdan'
 tags: ['Dessert']
 ---
 

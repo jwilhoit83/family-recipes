@@ -3,7 +3,7 @@ layout: ../../layouts/RecipeLayout.astro
 title: "Carbonara"
 pubDate: 2023-11-28
 description: "Brian Lagerstrom's Carbonara with bacon"
-author: 'Jerod Wilhoit'
+author: 'Jerod'
 tags: ['Dinner', 'Pasta']
 ---
 

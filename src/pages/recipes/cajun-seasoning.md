@@ -3,7 +3,7 @@ layout: ../../layouts/RecipeLayout.astro
 title: 'Cajun Seasoning'
 pubDate: 2023-11-28
 description: 'Cajun Seasoning'
-author: 'Jerod Wilhoit'
+author: 'Jerod'
 tags: ['Sauce-Seasoning', 'Dinner']
 ---
 

@@ -2,7 +2,7 @@
 layout: ../../layouts/RecipeLayout.astro
 title: "Impossible Cheeseburger Pie"
 pubDate: 2024-10-10
-author: 'Leslie Bydalek'
+author: 'Leslie'
 tags: ['Dinner', 'Casserole']
 ---
 

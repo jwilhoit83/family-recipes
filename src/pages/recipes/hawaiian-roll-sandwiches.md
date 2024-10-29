@@ -3,7 +3,7 @@ layout: ../../layouts/RecipeLayout.astro
 title: 'Hawaiian Roll Sandwiches'
 pubDate: 2024-9-10
 description: 'Ham and swiss sandwiches on hawaiian rolls'
-author: 'Leslie Bydalek'
+author: 'Leslie'
 tags: ['Dinner', 'Sandwiches']
 ---
 <h2 class='text-2xl py-4'>Ingredients</h2>

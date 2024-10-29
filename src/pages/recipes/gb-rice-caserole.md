@@ -2,7 +2,7 @@
 layout: ../../layouts/RecipeLayout.astro
 title: "Cheesy Ground Beef and Rice Casserole"
 pubDate: 2023-11-29
-author: 'Leslie Bydalek'
+author: 'Leslie'
 tags: ['Dinner', 'Casserole']
 ---
 

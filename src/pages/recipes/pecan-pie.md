@@ -2,7 +2,7 @@
 layout: ../../layouts/RecipeLayout.astro
 title: "Pecan Pie"
 pubDate: 2023-11-29
-author: 'Leslie Bydalek'
+author: 'Leslie'
 tags: ['Dessert', 'Pie']
 ---
 

@@ -3,7 +3,7 @@ layout: ../../layouts/RecipeLayout.astro
 title: "Banana Bread"
 pubDate: 2023-11-28
 description: "Barb Ray's Banana Bread"
-author: "Barbara Ray"
+author: "Barbara"
 tags: ["Dessert", "Bread", "Breakfast"]
 ---
 

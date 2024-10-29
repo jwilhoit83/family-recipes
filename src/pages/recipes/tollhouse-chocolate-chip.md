@@ -3,7 +3,7 @@ layout: ../../layouts/RecipeLayout.astro
 title: 'Tollhouse Chocolate Chip Cookies'
 pubDate: 2023-11-28
 description: 'Tollhouse Chocolate Chip Cookies'
-author: 'Jourdan Wilhoit'
+author: 'Jourdan'
 tags: ['Dessert', 'Cookies']
 ---
 

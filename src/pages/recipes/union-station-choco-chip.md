@@ -3,7 +3,7 @@ layout: ../../layouts/RecipeLayout.astro
 title: "Union Station Chocolate Chip Cookies"
 pubDate: 2023-11-28
 description: "Union Station Chocolate Chip Cookies"
-author: 'Denise Ray'
+author: 'Denise'
 tags: ['Dessert', 'Cookies']
 ---
 

@@ -3,7 +3,7 @@ layout: ../../layouts/RecipeLayout.astro
 title: "My Favorite Sugar Cookies"
 pubDate: 2024-10-15
 description: "My Favorite Sugar Cookies"
-author: 'Denise Ray'
+author: 'Denise'
 tags: ['Dessert', 'Cookies']
 ---
 

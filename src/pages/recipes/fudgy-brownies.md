@@ -3,7 +3,7 @@ layout: ../../layouts/RecipeLayout.astro
 title: "Fudgy Brownies"
 pubDate: 2023-11-28
 description: "Brian Lagerstrom's GOOD brownies"
-author: 'Brian Lagerstrom'
+author: 'Jerod'
 tags: ['Dessert']
 ---
 

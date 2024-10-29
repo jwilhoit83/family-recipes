@@ -3,7 +3,7 @@ layout: ../../layouts/RecipeLayout.astro
 title: "Cranberry White Chocolate Oatmeal Cookies"
 pubDate: 2023-11-28
 description: "Jourdans Cranberry White Chocolate Cookies"
-author: 'Jourdan Wilhoit'
+author: 'Jourdan'
 tags: ['Dessert', 'Cookies']
 ---
 

@@ -3,7 +3,7 @@ layout: ../../layouts/RecipeLayout.astro
 title: "Crockpot Garlic Parm Chicken Pasta"
 pubDate: 2024-10-11
 description: "Crockpot garlic parmesan chicken pasta"
-author: 'Jourdan Wilhoit'
+author: 'Jourdan'
 tags: ['Dinner', 'Pasta', 'Chicken']
 ---
 

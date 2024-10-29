@@ -3,7 +3,7 @@ layout: ../../layouts/RecipeLayout.astro
 title: "Tollhouse Pie"
 pubDate: 2023-11-28
 description: "Tollhouse Pie"
-author: 'Denise Ray'
+author: 'Denise'
 tags: ['Dessert', 'Pie', 'Cookies']
 ---
 <h2 class='text-2xl py-4'>Ingredients</h2>

@@ -3,7 +3,7 @@ layout: ../../layouts/RecipeLayout.astro
 title: 'Cheater Chicken Pot Pie'
 pubDate: 2024-9-10
 description: 'An easy chicken pot pie'
-author: 'Jerod Wilhoit'
+author: 'Jerod'
 tags: ['Dinner', 'Casserole', 'Chicken']
 ---
 <h2 class='text-2xl py-4'>Ingredients</h2>

@@ -3,7 +3,7 @@ layout: ../../layouts/RecipeLayout.astro
 title: 'Creamy Cajun Orzo with Sausage'
 pubDate: 2023-11-28
 description: 'Stovetop creamy cajun orzo'
-author: 'Jerod Wilhoit'
+author: 'Jerod'
 tags: ['Dinner', 'Pasta']
 ---
 

@@ -3,7 +3,7 @@ layout: ../../layouts/RecipeLayout.astro
 title: "Chicken Burrito Casserole"
 pubDate: 2024-10-11
 description: "Chicken Burrito Casserole"
-author: 'Jourdan Wilhoit'
+author: 'Jourdan'
 tags: ['Dinner', 'Casserole', 'Chicken']
 ---
 

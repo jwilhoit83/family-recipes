@@ -3,7 +3,7 @@ layout: ../../layouts/RecipeLayout.astro
 title: "Creamy Cajun Chicken Pasta"
 pubDate: 2024-10-01
 description: "FirehouseGrub Creamy Cajun Chicken Pasta"
-author: 'Leslie Bydalek'
+author: 'Leslie'
 tags: ['Dinner', 'Pasta']
 ---
 

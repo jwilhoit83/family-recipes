@@ -3,7 +3,7 @@ layout: ../../layouts/RecipeLayout.astro
 title: "Creamy Mushroom Sauce"
 pubDate: 2024-10-11
 description: "Creamy mushroom sauce"
-author: 'Jourdan Wilhoit'
+author: 'Jourdan'
 tags: ['Dinner', 'Sauce-Seasoning']
 ---
 

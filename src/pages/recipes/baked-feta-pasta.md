@@ -3,7 +3,7 @@ layout: ../../layouts/RecipeLayout.astro
 title: "Baked Feta Pasta"
 pubDate: 2024-10-11
 description: "Baked feta pasta"
-author: 'Jourdan Wilhoit'
+author: 'Jourdan'
 tags: ['Dinner', 'Pasta']
 ---
 

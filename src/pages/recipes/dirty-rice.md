@@ -3,7 +3,7 @@ layout: ../../layouts/RecipeLayout.astro
 title: "Dirty Rice"
 pubDate: 2024-09-23
 description: "Dirty Rice"
-author: 'Jerod Wilhoit'
+author: 'Jerod'
 tags: ['Dinner', 'Rice']
 ---
 

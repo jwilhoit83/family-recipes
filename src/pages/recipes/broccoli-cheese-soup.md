@@ -3,7 +3,7 @@ layout: ../../layouts/RecipeLayout.astro
 title: "Broccoli Cheese Soup (Panera Immitation)"
 pubDate: 2023-09-26
 description: "Union Station Chocolate Chip Cookies"
-author: "Leslie Bydalek"
+author: "Leslie"
 tags: ["Dinner", "Soup"]
 ---
 

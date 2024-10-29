@@ -3,7 +3,7 @@ layout: ../../layouts/RecipeLayout.astro
 title: 'Pesto Sauce'
 pubDate: 2023-11-28
 description: 'Pesto sauce from scratch'
-author: 'Jerod Wilhoit'
+author: 'Jerod'
 tags: ['Dinner', 'Pasta', 'Sauce-Seasoning']
 ---
 
