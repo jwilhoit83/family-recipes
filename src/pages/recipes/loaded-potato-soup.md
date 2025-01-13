@@ -4,7 +4,7 @@ title: "Loaded Baked Potato Soup (Crock Pot)"
 pubDate: 2025-01-13
 description: "Loaded baked potato soup"
 author: "Leslie"
-tags: ["Dinner", "Soup"]
+tags: ["Dinner", "Soup", 'Crock_Pot']
 ---
 
 <h2 class='text-2xl py-4'>Ingredients</h2>

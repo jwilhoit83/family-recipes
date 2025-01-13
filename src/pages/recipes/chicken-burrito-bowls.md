@@ -4,7 +4,7 @@ title: "Instant Pot Chicken Burrito Bowls"
 pubDate: 2024-10-11
 description: "Instant Pot Chicken Burrito Bowls"
 author: 'Leslie'
-tags: ['Dinner', 'Casserole', 'Chicken', 'Instant Pot']
+tags: ['Dinner', 'Casserole', 'Chicken', 'Instant_Pot']
 ---
 
 <h2 class='text-2xl py-4'>Ingredients</h2>

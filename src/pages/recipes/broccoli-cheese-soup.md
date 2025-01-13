@@ -2,9 +2,9 @@
 layout: ../../layouts/RecipeLayout.astro
 title: "Broccoli Cheese Soup (Panera Immitation)"
 pubDate: 2023-09-26
-description: "Union Station Chocolate Chip Cookies"
+description: "Broccoli Cheese Soup (Panera Immitation)"
 author: "Leslie"
-tags: ["Dinner", "Soup"]
+tags: ["Dinner", "Soup", 'Crock_Pot']
 ---
 
 <h2 class='text-2xl py-4'>Ingredients</h2>

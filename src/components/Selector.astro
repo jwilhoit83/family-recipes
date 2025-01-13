@@ -35,7 +35,7 @@ const uniqueTags = [
       >All Recipes</a>
 
       {uniqueTags.map((tag) => <a href={"/tags/" + tag} class="block my-1 py-1 sm:mx-2"
-      >{tag}</a>)}
+      >{tag.replace('_', ' ')}</a>)}
 
     </div>
   </div>

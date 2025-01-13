@@ -4,7 +4,7 @@ title: "Dirty Rice"
 pubDate: 2024-09-23
 description: "Dirty Rice"
 author: 'Jerod'
-tags: ['Dinner', 'Rice']
+tags: ['Dinner', 'Rice', 'Cajun']
 ---
 
 <h2 class='text-2xl py-4'>Ingredients</h2>

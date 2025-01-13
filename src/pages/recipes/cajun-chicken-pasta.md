@@ -4,7 +4,7 @@ title: "Creamy Cajun Chicken Pasta"
 pubDate: 2024-10-01
 description: "FirehouseGrub Creamy Cajun Chicken Pasta"
 author: 'Leslie'
-tags: ['Dinner', 'Pasta']
+tags: ['Dinner', 'Pasta', 'Cajun']
 ---
 
 <h2 class='text-2xl py-4'>Ingredients</h2>
@@ -19,14 +19,14 @@ tags: ['Dinner', 'Pasta']
     <li>1 cup finely grated Parmesan cheese</li>
     <li>2 tbs butter</li>
     <li>Olive oil</li>
-    <li>Tony Chachere’s original seasoning</li>
-    <li>Paprika</li>
-    <li>Parsley to garnish</li>
+    <li>cajun of creole seasoning</li>
+    <li>paprika</li>
+    <li>parsley to garnish</li>
 </ul>
 <h2 class='text-2xl py-4'>Instructions</h2>
 <ol class='list-decimal ms-4 ps-4 py-2'>
     <li>Preheat skillet with oil and butter to medium high heat.</li>
-    <li>While skillet heats, butterfly chicken breasts and generously season with olive oil, Tony Chachere’s original seasoning, and paprika.</li>
+    <li>While skillet heats, butterfly chicken breasts and generously season with olive oil, cajun or creole seasoning, and paprika.</li>
     <li>Cook chicken for 5-7 minutes per side or until done. Remove and set aside.</li>
     <li>Add diced onion to skillet. Cook until soft.</li>
     <li>While onion cooks, boil pasta.</li>

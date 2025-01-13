@@ -4,7 +4,7 @@ title: "Crockpot Garlic Parm Chicken Pasta"
 pubDate: 2024-10-11
 description: "Crockpot garlic parmesan chicken pasta"
 author: 'Jourdan'
-tags: ['Dinner', 'Pasta', 'Chicken']
+tags: ['Dinner', 'Pasta', 'Chicken', 'Crock_Pot']
 ---
 
 <h2 class='text-2xl py-4'>Ingredients</h2>

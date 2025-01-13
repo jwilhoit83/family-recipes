@@ -4,7 +4,7 @@ title: "Instant Pot Barbacoa"
 pubDate: 2025-01-13
 description: "Barbacoa from the instant pot"
 author: "Leslie"
-tags: ["Dinner", "Beef", 'Mexican']
+tags: ["Dinner", "Beef", 'Mexican', 'Instant_Pot']
 ---
 
 <h2 class='text-2xl py-4'>Ingredients</h2>

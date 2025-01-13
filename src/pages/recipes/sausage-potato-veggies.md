@@ -4,7 +4,7 @@ title: 'Sausage, Potatoes, & Green Beans (instant pot)'
 pubDate: 2024-9-10
 description: 'Simple and delicious sausage and veggie dish'
 author: 'Leslie'
-tags: ['Dinner']
+tags: ['Dinner', 'Instant_Pot']
 ---
 <h2 class='text-2xl py-4'>Ingredients</h2>
 <ul class='list-disc ms-4 ps-4 py-2'>

@@ -4,7 +4,7 @@ title: 'Creamy Cajun Orzo with Sausage'
 pubDate: 2023-11-28
 description: 'Stovetop creamy cajun orzo'
 author: 'Jerod'
-tags: ['Dinner', 'Pasta']
+tags: ['Dinner', 'Pasta', 'Cajun']
 ---
 
 <h2 class='text-2xl py-4'>Ingredients</h2>

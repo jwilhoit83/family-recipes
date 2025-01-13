@@ -4,7 +4,7 @@ title: 'Cajun Seasoning'
 pubDate: 2023-11-28
 description: 'Cajun Seasoning'
 author: 'Jerod'
-tags: ['Sauce-Seasoning', 'Dinner']
+tags: ['Sauce_Seasoning', 'Dinner', 'Cajun']
 ---
 
 <h2 class='text-2xl py-4'>Ingredients</h2>
