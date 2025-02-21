@@ -1,37 +1,33 @@
 ---
 layout: ../../layouts/RecipeLayout.astro
-title: "Dirty Rice"
+title: "Instant Pot Dirty Rice"
 pubDate: 2024-09-23
 description: "Dirty Rice"
 author: 'Jerod'
-tags: ['Dinner', 'Rice', 'Cajun']
+tags: ['Dinner', 'Rice', 'Cajun', 'Instant_Pot']
 ---
 
 <h2 class='text-2xl py-4'>Ingredients</h2>
 <ul class='list-disc ms-4 ps-4 py-2'>
-    <li>½ lb ground beef , 80/20</li>
-    <li>½ lb ground sausage (I use Jimmy Dean pork sausage)</li>
-    <li>1 teaspoon salt</li>
-    <li>½ teaspoon freshly ground black pepper</li>
-    <li>¼ cup all-purpose flour</li>
-    <li>1 onion , diced</li>
-    <li>½ cup celery , diced</li>
-    <li>1 green bell pepper , diced</li>
-    <li>3 cloves garlic , minced</li>
-    <li>2 teaspoons Cajun seasoning</li>
-    <li>¼ teaspoon cayenne pepper</li>
-    <li>1/4 teaspoon dried oregano leaves</li>
-    <li>1/4 teaspoon dried thyme</li>
+    <li>1 lb ground beef</li>
+    <li>1 lb ground sausage</li>
+    <li>1 cup diced onion</li>
+    <li>1 cup diced bell peppers</li>
+    <li>½ cup diced celery</li>
+    <li>3 cloves minced garlic</li>
+    <li>1 Tablespoon Cajun seasoning</li>
+    <li>½ teaspoon dried oregano leaves</li>
+    <li>½ teaspoon dried thyme</li>
     <li>2 bay leaves</li>
-    <li>2 cups long-grain white rice , or basmati rice</li>
-    <li>4 cups low-sodium chicken broth</li>
-    <li>½ cup chopped green onion</li>
-    <li>¼ cup fresh chopped parsley</li>
+    <li>2.5 cups low-sodium chicken broth</li>
+    <li>1 Tablespoon apple cider vinegar</li>
+    <li>2 cups long-grain white rice</li>
+    <li>chopped green onion for garnish</li>
 </ul>
 <h2 class='text-2xl py-4'>Instructions</h2>
 <ol class='list-decimal ms-4 ps-4 py-2'>
-    <li>Add ground beef and sausage to a large saucepan over medium heat. Season with salt and pepper and cook, crumbling with a wooden spoon, until browned.</li>
-    <li>Add flour and stir. Add onion, bell pepper, and celery and sauté for 2 minutes. Add garlic, Cajun seasoning, cayenne, oregano, thyme and bay leaves and stir to combine.</li>
-    <li>Add rice and chicken broth. Bring to a boil, cover, reduce heat to low and simmer for 20 minutes. Remove from heat all allow to rest for 5 minutes. Remove lid, gently fluff rice with a fork, reapply lid and rest for 5 more minutes.</li>
-    <li>Garnish with green onion and parsley before serving.</li>
+    <li>With the Instant Pot on saute add the meats, onion, peppers, celery, and garlic and cook until meat is browned and veggies start to soften up.</li>
+    <li>Stir in the seasonings as well as the rice until mixed well then add the stock and cider to the mix and place the bay leaves on top.</li>
+    <li>Lock the lid and cook on low pressure for 12 minutes followed by a natural release of pressure(usually around 10 minutes)</li>
+    <li>Open the lid, remove bay leaves, stir and garnish with green onion before serving.</li>
 </ol>
