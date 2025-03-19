@@ -12,7 +12,7 @@ tags: ['Dinner', 'Casserole', 'Chicken', 'Instant_Pot']
     <li>1 1/2 pound chicken breast</li>
     <li>2 1/2 tablespoons taco seasoning</li>
     <li>2 cups chicken broth</li>
-    <li>1 cub long grain white rice</li>
+    <li>1 cup long grain white rice</li>
     <li>1 can dice tomatoes with green chiles(Rotel)</li>
     <li>1 can sweet corn mostly drained</li>
     <li>15 ounce can black beans drained and rinsed</li>
