@@ -17,7 +17,7 @@ tags: ['Dinner', 'Pasta', 'Cajun']
     <li>8 oz. orzo</li>
     <li>1 (14-oz.) can fire roasted diced tomatoes</li>
     <li>2 c. low-sodium chicken broth</li>
-    <li>2 Tbsp. cajun seasoning</li>
+    <li>1 Tbsp. cajun seasoning</li>
     <li>Kosher salt</li>
     <li>Freshly ground black pepper</li>
     <li>4 oz. cream cheese, cut into cubes</li>
